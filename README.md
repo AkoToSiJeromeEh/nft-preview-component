@@ -2,11 +2,9 @@
 
 🚀 Frontend Mentor Challenge 
 
-👋 Hi guys its me again dropping off a Project  Sheshh
-this is a Nft Card Component That is A challenge On
-Frontend Mentor Website , and Ive done this using 
-React Js and Css but its doesnt have a functionality
-just a Hover animation.
+👋
+Hello again, everyone! I'm back with a project update on 'Sheshh.' It's a challenge I found on the Frontend Mentor website. I've successfully created an NFT card component using React.js and CSS. However, at the moment, it lacks functionality and only features a hover animation.
+ would greatly appreciate it if you could help me refine the project. I'm seeking advice on enhancing its functionality and adding new features. Here are some areas where I need assistance.
 
 🕶️ PREVIEW OF THE CARD NFT COMPONENT
 
